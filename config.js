@@ -50,7 +50,7 @@ module.exports = {
     //Auto changing status message
     statusCH: {
         channelID: "",
-        time: "30s" //Period of updating status message - like "3min", "20s" or "1min" etc.
+        time: "3min" //Period of updating status message - like "3min", "20s" or "1min" etc.
     },
 
     //Voting channel - https://mb.petyxbron.cz/config/config-info#voting-ch
