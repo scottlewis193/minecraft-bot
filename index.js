@@ -1,3 +1,5 @@
+require('dotenv').config({path: __dirname + '/.env'})
+
 const Discord = require('discord.js'),
     fs = require('fs'),
     c = require('chalk'),
