@@ -43,7 +43,7 @@ module.exports = {
 
     //Period of auto changing status if you are using {onlinePlayers} or {maxPlayers} in bot's presence
     autoStatus: {
-        time: "1min", //Period of auto changing status - like "3min", "20s" or "1min" etc.
+        time: "30s", //Period of auto changing status - like "3min", "20s" or "1min" etc.
         offline: "Offline" //Changes bot's presence to this text if the server is offline / not found
     },
 
